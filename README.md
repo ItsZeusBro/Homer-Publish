@@ -3,4 +3,9 @@
 
 ## A publisher subscriber plug for Moira, and anything else that needs it.
 - For now, this is just a developer plug for developer environments. 
-- Production settings will come in time. (This is all a toy to prove a concept for now)
+  - Set ip to localhost with a specified port that the subscriber runs on. 
+  - Production settings will come in time. (This is all a toy to prove a concept for now)
+
+
+## API
+
